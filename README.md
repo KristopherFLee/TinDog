@@ -1,2 +1,1 @@
-# TinDog
-Practice dog meet up site
+TinDog Starting Files
